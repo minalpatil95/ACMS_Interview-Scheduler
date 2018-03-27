@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="interviewscheduler:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="interviewscheduler.war">
+      <element id="artifact" artifact-name="interviewscheduler:war exploded" />
+    </root>
+  </artifact>
+</component>
